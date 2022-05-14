@@ -38,6 +38,7 @@ body{
     color: #2196F3;
 }
 .hero-section-btn {
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
