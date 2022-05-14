@@ -38,6 +38,21 @@ body{
     
     color: #2196F3;
 }
+.hero-section-btn {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1, 62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    background-color: #F5F4FA;
+
+    color: #212121;
+}
+.hero-section-btn:hover,
+.hero-section-btn:focus{
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
 /* =============== /COMPONENTS =============== */
 
 /* =============== HEADER =============== */
@@ -93,19 +108,6 @@ body{
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    
-    color: #FFFFFF;
-}
-.hero-section-btn{
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 1,88;
-    
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.06em;
-    background: #188CE8;
     
     color: #FFFFFF;
 }
