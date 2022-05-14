@@ -1,6 +1,11 @@
 :root{
     --main-font: 'Roboto',sans-serif;
     --secondary-font: 'Raleway',sans-serif;
+    --header-color: #212121;
+    --description-section-color: #757575;
+    --dark-background-color: #2F303A;
+    --btn-main-background-color: #F5F4FA;
+    --btn-hover-focus-back-color:#2196F3;
 }
 .link{
     text-decoration: none;
@@ -19,7 +24,7 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     
-    color: #212121;
+    color: var(--header-color)
 }
 .section-description{
 
@@ -27,7 +32,7 @@ body{
     line-height: 1.71;
     letter-spacing: 0.03em;
 
-    color: #757575;
+    color: var(--description-section-color)
 }
 .logo-link{
     font-weight: 700;
@@ -44,13 +49,13 @@ body{
     line-height: 1.62;
     text-align: center;
     letter-spacing: 0.03em;
-    background-color: #F5F4FA;
+    background-color: var(--btn-main-background-color)
 
     color: #212121;
 }
 .hero-section-btn:hover,
 .hero-section-btn:focus{
-    background-color: #2196F3;
+    background color: var(--btn-hover-focus-back-color)
     color: #FFFFFF;
 }
 /* =============== /COMPONENTS =============== */
@@ -99,7 +104,7 @@ body{
 
 /* =============== HERO =============== */
 .hero-section{
-    background: #2F303A;
+    background: var(--dark-background-color)
 }
 .hero-section-header{
     font-weight: 900;
@@ -127,7 +132,7 @@ body{
 
 /* =============== ФУТЕР =============== */
 .footer{
-    background: #2F303A;
+    background: var(--dark-background-color)
 }
 .second-part-logo-footer {
     color: #FFFFFF;
