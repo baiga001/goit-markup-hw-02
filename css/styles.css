@@ -15,7 +15,7 @@ body{
 .section-header{
     font-weight: 700;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     
@@ -24,7 +24,7 @@ body{
 .section-description{
 
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     letter-spacing: 0.03em;
 
     color: #757575;
@@ -32,8 +32,7 @@ body{
 .logo-link{
     font-weight: 700;
     font-size: 26px;
-    line-height: 1,
-    19;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     
     color: #2196F3;
@@ -41,7 +40,7 @@ body{
 .hero-section-btn {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1, 62;
+    line-height: 1.62;
     text-align: center;
     letter-spacing: 0.03em;
     background-color: #F5F4FA;
@@ -62,7 +61,7 @@ body{
 .menu-link{
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     
     color: #212121;
@@ -74,7 +73,7 @@ body{
 .mail-header{
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     
     color: #757575;
@@ -86,7 +85,7 @@ body{
 .tel-number-header{
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     
     color: #757575;
@@ -104,7 +103,7 @@ body{
 .hero-section-header{
     font-weight: 900;
     font-size: 44px;
-    line-height: 1,36;
+    line-height: 1.36;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -135,7 +134,7 @@ body{
 .address-link{
     font-style: normal;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     
     color: #FFFFFF;
@@ -143,7 +142,7 @@ body{
 .mail-footer{
     font-style: normal;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     
     color: rgba(255, 255, 255, 0.6);
@@ -151,8 +150,7 @@ body{
 .tel-number-footer{
         font-style: normal;
         font-size: 14px;
-        line-height: 1,
-        71;
+        line-height: 1.71;
         letter-spacing: 0.03em;
         
         color: rgba(255, 255, 255, 0.6);
