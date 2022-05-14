@@ -58,6 +58,9 @@ body{
     background color: var(--btn-hover-focus-back-color)
     color: #FFFFFF;
 }
+.navigation .link-current{
+    color: #2196F3;
+}
 /* =============== /COMPONENTS =============== */
 
 /* =============== HEADER =============== */
