@@ -137,6 +137,23 @@ body{
     color: #212121;
 }
 /* =============== /НАШИ ПРЕИМУЩЕСТВА =============== */
+.section-header{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: var(--header-color)
+
+}
+.section-description{
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    
+    color: var(--description-section-color)
+}
 
 /* =============== ЧЕМ МЫ ЗАНИМАЕМСЯ =============== */
 .our-job-section{}
